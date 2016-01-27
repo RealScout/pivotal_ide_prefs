@@ -25,7 +25,7 @@ First, *close your Jetbrains IDE*.
 Then, run the following commands:
 
 ```sh
-git clone https://github.com/pivotal/pivotal_ide_prefs
+git clone https://github.com/realscout/pivotal_ide_prefs
 cd pivotal_ide_prefs/cli
 bin/ide_prefs --ide=[rubymine,intellij,intellijcommunity,webstorm,androidstudio,pycharm] install
 ```
