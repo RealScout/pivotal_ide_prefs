@@ -1,4 +1,4 @@
-# Pivotal IDE Prefs
+# RealScout ~~Pivotal~~ IDE Prefs
 
 [![Code Climate](https://codeclimate.com/github/pivotal/pivotal_ide_prefs.png)](https://codeclimate.com/github/pivotal/pivotal_ide_prefs)
 
