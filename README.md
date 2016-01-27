@@ -25,7 +25,7 @@ First, *close your Jetbrains IDE*.
 Then, run the following commands:
 
 ```sh
-git clone https://github.com/realscout/pivotal_ide_prefs
+git clone git@github.com:RealScout/pivotal_ide_prefs.git
 cd pivotal_ide_prefs/cli
 bin/ide_prefs --ide=rubymine install
 ```
